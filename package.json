@@ -1,0 +1,15 @@
+{
+  "name": "fix-collection-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
